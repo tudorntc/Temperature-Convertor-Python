@@ -11,3 +11,7 @@ print("3. Fahrenheit to Celsius")
 print("4. Fahrenheit to Kelvin")
 print("5. Kelvin to Celsius")
 print("6. Kelvin to Fahrenheit")
+
+#User choice
+
+user_choice = int(input("Enter the corespondenting number: "))
