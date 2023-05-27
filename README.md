@@ -7,4 +7,4 @@ Feel free to contact @tudorntc (tudorntc08@gmail.com) if you notice any problems
 ----
 Author
 ------
-[Nica Tudor](https://github.com/tudorntc)
+[Nica Tudor](https://github.com/tudorntc) 
